@@ -10,7 +10,7 @@ Within this broader context, our specific research question narrows down to “F
  
 2. Sectors with more stable, predictable revenue streams (like utilities or consumer staples) will show stronger correlations between their multiples and steady-state financial metrics like operating margins or ROE, compared to more volatile sectors (like technology or healthcare).
 
-*Note: We plan to curate a list of 5-10 multiples. We plan to speak with an industry professional to gather the most useful multiples in the middle market sector
+*Note: We plan to curate a list of 5-10 multiples. We plan to speak with an industry professional to gather the most useful multiples in the middle market sector*
 
 # Metrics of Success and Baseline:
 Since we are focused on correlation analysis, our metric of success will be the strength of the correlation coefficients (R^2 values) between stocks in a given industry’s multiples and financial metrics. A high R^2 would mean the market values that specific financial metric. Our goal will be to find correlations of similar or greater strength in other sectors,  with a benchmark around 0.75. 
